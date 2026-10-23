@@ -62,6 +62,10 @@ function emergescale_setup() {
     // Add support for Block Styles and full/wide align.
     add_theme_support( 'align-wide' );
     add_theme_support( 'responsive-embeds' );
+
+    // Add support for Gutenberg editor styles.
+    add_theme_support( 'editor-styles' );
+    add_editor_style( 'assets/css/editor-style.css' );
 }
 add_action( 'after_setup_theme', 'emergescale_setup' );
 
