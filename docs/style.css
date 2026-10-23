@@ -1,0 +1,20 @@
+/*
+Theme Name: EmergeScale
+Theme URI: https://emergescale.example.com
+Author: EmergeScale Studio
+Author URI: https://emergescale.example.com
+Description: A premium, modern digital studio WordPress theme built for agencies, tech consultants, and high-growth businesses. Features bespoke aesthetic design, responsive layouts, high performance, and full WordPress customizability.
+Version: 1.0.0
+Tested up to: 6.7
+Requires at least: 6.0
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: emergescale
+Tags: agency, business, portfolio, clean, modern, responsive, full-width-template, custom-menu, featured-images, theme-options
+*/
+
+/*
+ * Additional theme-level overrides if necessary.
+ * Core styling is modularized in assets/css/main.css.
+ */
